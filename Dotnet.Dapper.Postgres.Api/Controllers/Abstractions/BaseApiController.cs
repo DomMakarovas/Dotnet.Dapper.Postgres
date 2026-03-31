@@ -1,4 +1,4 @@
-namespace Web.Template.Api.Controllers.Abstractions;
+namespace Dotnet.Dapper.Postgres.Api.Controllers.Abstractions;
 
 [ApiController]
 [Route("api/[controller]")]

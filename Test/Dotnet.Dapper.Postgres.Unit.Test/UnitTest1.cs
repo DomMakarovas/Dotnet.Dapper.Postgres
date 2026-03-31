@@ -1,4 +1,4 @@
-﻿namespace Web.Template.Api.Integration.Test;
+﻿namespace Dotnet.Dapper.Postgres.Unit.Test;
 
 public class UnitTest1
 {

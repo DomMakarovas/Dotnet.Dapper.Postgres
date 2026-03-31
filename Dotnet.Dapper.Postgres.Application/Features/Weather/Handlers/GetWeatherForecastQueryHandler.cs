@@ -1,4 +1,4 @@
-namespace Web.Template.Api.Application.Features.Weather.Handlers;
+namespace Dotnet.Dapper.Postgres.Application.Features.Weather.Handlers;
 
 public class GetWeatherForecastQueryHandler : IRequestHandler<GetWeatherForecastQuery, IReadOnlyCollection<WeatherForecast>>
 {

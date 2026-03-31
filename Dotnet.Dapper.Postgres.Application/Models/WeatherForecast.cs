@@ -1,4 +1,4 @@
-namespace Web.Template.Api.Application.Models;
+namespace Dotnet.Dapper.Postgres.Application.Models;
 
 public class WeatherForecast
 {

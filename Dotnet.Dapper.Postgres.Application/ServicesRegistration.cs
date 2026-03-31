@@ -1,4 +1,4 @@
-namespace Web.Template.Api.Application;
+namespace Dotnet.Dapper.Postgres.Application;
 
 public static class ServicesRegistration
 {
