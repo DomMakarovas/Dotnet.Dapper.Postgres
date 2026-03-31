@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Test/">
+    <Project Path="Test/Web.Template.Api.Integration.Test/Web.Template.Api.Integration.Test.csproj" />
+    <Project Path="Test/Web.Template.Api.Unit.Test/Web.Template.Api.Unit.Test.csproj" />
+  </Folder>
+  <Project Path="Web.Template.Api.Application/Web.Template.Api.Application.csproj" />
+  <Project Path="Web.Template.Api.Domain/Web.Template.Api.Domain.csproj" />
+  <Project Path="Web.Template.Api.Infrastructure/Web.Template.Api.Infrastructure.csproj" />
+  <Project Path="Web.Template.Api/Web.Template.Api.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+namespace Web.Template.Api.Application;
+
+public static class ServicesRegistration
+{
+    private sealed class MediatRTarget;
+    
+    public static void AddApplicationServices(this IServiceCollection services)
+    {
+        services.AddMediatR(static config => config.RegisterServicesFromAssemblyContaining<MediatRTarget>());
+    }
+}
