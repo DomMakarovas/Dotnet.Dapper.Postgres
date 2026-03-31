@@ -1,6 +1,6 @@
-@Web_Template_Api_HostAddress = http://localhost:5274
+@Dotnet_Dapper_Postgres_HostAddress = http://localhost:5000/api
 
-GET {{Web_Template_Api_HostAddress}}/weatherforecast/
+GET {{Dotnet_Dapper_Postgres_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
