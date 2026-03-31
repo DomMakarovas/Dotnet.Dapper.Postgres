@@ -8,12 +8,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.5" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Dotnet.Dapper.Postgres.Application\Dotnet.Dapper.Postgres.Application.csproj" />
+      <ProjectReference Include="..\Dotnet.Dapper.Postgres.Infrastructure\Dotnet.Dapper.Postgres.Infrastructure.csproj" />
     </ItemGroup>
 
     <ItemGroup>

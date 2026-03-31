@@ -6,4 +6,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="FluentMigrator" Version="8.0.1" />
+      <PackageReference Include="FluentMigrator.Runner.Core" Version="8.0.1" />
+      <PackageReference Include="FluentMigrator.Runner.Postgres" Version="8.0.1" />
+      <PackageReference Include="Npgsql" Version="10.0.2" />
+    </ItemGroup>
+
 </Project>
