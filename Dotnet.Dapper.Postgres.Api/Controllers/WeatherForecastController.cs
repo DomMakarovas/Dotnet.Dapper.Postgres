@@ -1,4 +1,4 @@
-namespace Web.Template.Api.Controllers;
+namespace Dotnet.Dapper.Postgres.Api.Controllers;
 
 public class WeatherForecastController(IMediator mediator) : BaseApiController(mediator)
 {

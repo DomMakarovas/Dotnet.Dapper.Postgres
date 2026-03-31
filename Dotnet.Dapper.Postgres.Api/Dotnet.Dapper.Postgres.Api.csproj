@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Web.Template.Api.Application\Web.Template.Api.Application.csproj" />
+      <ProjectReference Include="..\Dotnet.Dapper.Postgres.Application\Dotnet.Dapper.Postgres.Application.csproj" />
     </ItemGroup>
 
 </Project>

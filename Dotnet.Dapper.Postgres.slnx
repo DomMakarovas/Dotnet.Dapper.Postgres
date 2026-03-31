@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Test/">
+    <Project Path="Test/Dotnet.Dapper.Postgres.Test/Dotnet.Dapper.Postgres.Test.csproj" />
+    <Project Path="Test/Dotnet.Dapper.Postgres.Unit.Test/Dotnet.Dapper.Postgres.Unit.Test.csproj" />
+  </Folder>
+  <Project Path="Dotnet.Dapper.Postgres.Api/Dotnet.Dapper.Postgres.Api.csproj" />
+  <Project Path="Dotnet.Dapper.Postgres.Application/Dotnet.Dapper.Postgres.Application.csproj" />
+  <Project Path="Dotnet.Dapper.Postgres.Domain/Dotnet.Dapper.Postgres.Domain.csproj" />
+  <Project Path="Dotnet.Dapper.Postgres.Infrastructure/Dotnet.Dapper.Postgres.Infrastructure.csproj" />
+</Solution>
